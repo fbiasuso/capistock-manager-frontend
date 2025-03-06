@@ -1,4 +1,4 @@
-# Capistock Manager (Backend)
+# Capistock Manager (Frontend)
 Frontend para  "Capistock Manager" una aplicación de control de inventarios  para el proyecto final de RollingCode.
 
 [Backend del proyecto aquí](https://github.com/fbiasuso/capistock-manager-backend)
